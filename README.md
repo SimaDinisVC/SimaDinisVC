@@ -1,5 +1,5 @@
 ## HI!!! My name is Simão Costa and I am learning about programation code.<br>
-### I'm portuguese and i'm excited to learn more about how github functions with my projects of programing.
+#### I'm portuguese and i'm excited to learn more about how github functions with my projects of programing.
 <div>
   <a href="https://github.com/SimaDinisVC">
   <img width="455em" src="https://github-readme-stats.vercel.app/api?username=SimaDinisVC&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
