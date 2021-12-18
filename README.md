@@ -2,8 +2,8 @@
 #### I'm portuguese and i'm excited to learn more about how github functions with my projects of programing.
 <div>
   <a href="https://github.com/SimaDinisVC">
-  <img width="380em" src="https://github-readme-stats.vercel.app/api?username=SimaDinisVC&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img width="455em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimaDinisVC&layout=compact&langs_count=7&theme=nord"/>
+  <img width="455em" src="https://github-readme-stats.vercel.app/api?username=SimaDinisVC&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimaDinisVC&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <div style="display: inline_block" align=center><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
